@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-Este projeto é o resultado de uma atividade proposta na disciplina **Segurança de Dados**, do curso **Técnologo em Ciência de Dados**. Este repositório documenta a **análise exploratória de acidentes rodoviários** com base no conjunto de dados fornecido pela **Polícia Rodoviária Federal (PRF)**.  
+Este projeto é o resultado de uma atividade proposta na disciplina **Segurança de Dados**, do curso **Tecnólogo em Ciência de Dados**. Este repositório documenta a **análise exploratória de acidentes rodoviários** com base no conjunto de dados fornecido pela **Polícia Rodoviária Federal (PRF)**.  
 O principal objetivo foi identificar padrões de ocorrência e gravidade dos acidentes, relacionando-os com variáveis como **condições meteorológicas**, **tipo de pista** e **horário**, além de extrair **insights** a partir das descrições textuais das causas.
 
 A partir desses insights, foram elaboradas **recomendações práticas** para orientar campanhas de conscientização e políticas públicas de segurança viária.
